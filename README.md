@@ -31,5 +31,11 @@ $ python app.py
 Running on http://127.0.0.1:5000
 ### Result
 This is the result after running the application
-![Your Code Work](./screenshots/result.jpeg)
+![resultTest](./screenshots/result.jpeg)
+### Test IQ result
+This is the result of my IQ test
+![resultIQ](./screenshots/iq.jpeg)
 ### Heroku
+
+### Contributor
+- From: [tranquanguit](https://github.com/tranquanguit)
