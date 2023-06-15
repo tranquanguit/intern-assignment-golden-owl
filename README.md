@@ -1,4 +1,5 @@
 # intern-assignment-golden-owl
+
 ### Table of Contents
 
 1. [Describe](#describe)  
@@ -41,5 +42,3 @@ This is the result of my IQ test
 
 ### Contributor
 - From: [tranquanguit](https://github.com/tranquanguit)
-
-[Table of Contents](#Table of Contents)  
