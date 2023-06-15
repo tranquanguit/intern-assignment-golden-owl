@@ -10,7 +10,7 @@ def home():
 @app.route('/data/shoes.json')
 def get_shoes_data():
     # Đọc dữ liệu từ tệp shoes.json và trả về như là JSON
-    with open('/static/data/shoes.json') as f:
+    with open('static/data/shoes.json') as f:
         shoes_data = json.load(f)
     return jsonify(shoes_data)
 
