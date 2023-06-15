@@ -1,18 +1,10 @@
-from flask import Flask, jsonify, render_template
-import json
+from flask import Flask, render_template
 
 app = Flask(__name__)
 
 @app.route('/')
 def home():
     return render_template('index.html')
-
-@app.route('/data/shoes.json', methods=['GET'])
-def get_shoes_data():
-    # Đọc dữ liệu từ tệp shoes.json và trả về như là JSON
-    with open('static/data/shoes.json') as f:
-        shoes_data = json.load(f)
-    return jsonify(shoes_data)
 
 if __name__ == '__main__':
     app.run(debug=True)
