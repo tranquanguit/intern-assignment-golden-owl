@@ -5,7 +5,9 @@
 2. [Install](#install)
 3. [Deploy](#deploy)
 4. [Result](#result)
-5. [Heroku](#heroku)
+5. [Test IQ result](#iqtest)
+6. [Heroku](#heroku)
+7. [Contributor](#contributor)
 
 ### Describe
 This is my test result - Tran Van Quang to apply to Golden Owl company for the position of internship
