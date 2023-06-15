@@ -1,7 +1,7 @@
 from flask import Flask, jsonify, render_template
 import json
 
-app = Flask(__name__)
+app = Flask(__name__, template_folder='templates')
 
 @app.route('/')
 def home():
@@ -15,4 +15,4 @@ def get_shoes_data():
     return jsonify(shoes_data)
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(host='0.0.0.0')
