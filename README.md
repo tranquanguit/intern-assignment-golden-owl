@@ -5,7 +5,7 @@
 2. [Install](#install)
 3. [Deploy](#deploy)
 4. [Result](#result)
-5. [Test IQ result](#iqtest)
+5. [Test IQ result](#TestIQResult) 
 6. [Heroku](#heroku)
 7. [Contributor](#contributor)
 
