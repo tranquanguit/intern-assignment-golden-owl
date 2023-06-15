@@ -5,7 +5,7 @@
 2. [Install](#install)
 3. [Deploy](#deploy)
 4. [Result](#result)
-5. [Test IQ result](#TestIQResult) 
+5. [Test IQ result](#Test_IQ_Result) 
 6. [Heroku](#heroku)
 7. [Contributor](#contributor)
 
@@ -34,10 +34,12 @@ Running on http://127.0.0.1:5000
 ### Result
 This is the result after running the application
 ![resultTest](./screenshots/result.jpeg)
-### Test IQ result
+### Test_IQ_Result
 This is the result of my IQ test
 ![resultIQ](./screenshots/iq.jpeg)
 ### Heroku
 
 ### Contributor
 - From: [tranquanguit](https://github.com/tranquanguit)
+
+[Table of Contents](#Table of Contents)  
