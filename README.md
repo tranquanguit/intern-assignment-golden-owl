@@ -37,7 +37,7 @@ This is the result after running the application
 ![resultTest](./screenshots/result.jpeg)
 ### Test_IQ_Result
 This is the result of my IQ test
-![resultIQ](./screenshots/iq.jpeg)
+![resultIQ](./screenshots/testIQ.png)
 ### Heroku
 
 ### Contributor
